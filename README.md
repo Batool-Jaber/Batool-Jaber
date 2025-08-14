@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="Batool Jaber.bmp" alt="Profile Image" width="1000" />
+  <img src="Batool Jaber.bmp" alt="Profile Image" width="700" />
 </p>
 <br>
 

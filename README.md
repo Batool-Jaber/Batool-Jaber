@@ -43,10 +43,6 @@
 
 <br>
 
-## 📊 My GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batool-jaber&layout=compact&theme=transparent&text_color=ffffff&title_color=FF99BB&bg_color=00000000" alt="Top Languages" />
-</p>
 
 ## 🤝 Let's Connect
 

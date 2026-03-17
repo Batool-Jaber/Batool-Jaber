@@ -1,8 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="capture_20260317210954024.bmp" alt="Profile Image" width="700" />
-</p>
-<br>
+
 
 ## Here's a bit about me:
 
